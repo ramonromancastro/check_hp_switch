@@ -1,6 +1,12 @@
 # check_hp_switch
 Nagios plugin for HP switches
 
+## Devices tested
+
+- HP 2530 Switch Series
+- HP 2920 Switch Series
+- HP ProCurve Switch 2500 Series
+
 ## Usage
 
 ```
