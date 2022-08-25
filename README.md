@@ -41,7 +41,7 @@ Options:
    Perfparse compatible output
 -t, --timeout=INTEGER
    Timeout for SNMP in seconds (Default: 5)
--T, --test=<sensors|os> (default sensors)
+-T, --test=<check>
    cpu     : CPU
    fan     : Fans
    future  : FutureSlot
